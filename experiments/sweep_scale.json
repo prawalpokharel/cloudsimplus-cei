@@ -1,0 +1,124 @@
+{
+ "cells": [
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 48,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 48,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 48,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 96,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 96,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 96,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 192,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 192,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 192,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 384,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 384,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 384,
+   "failures": 2,
+   "policies": "BestFit,AntiAffinity,CEI@0.35"
+  }
+ ]
+}

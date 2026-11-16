@@ -1,0 +1,44 @@
+{
+ "callgraph_files": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "resource_file": 0,
+ "rows": 25307932,
+ "window_bins_30s": 40,
+ "online_services_seen": 2184,
+ "apps_kept": 119,
+ "app_size_mean": 19.647058823529413,
+ "app_size_quantiles": [
+  6.0,
+  11.0,
+  16.0,
+  27.5,
+  40.0
+ ],
+ "edges_mean": 17.563025210084035,
+ "replica_counts": {
+  "3": 382,
+  "1": 1917,
+  "2": 39
+ },
+ "stateful_services": 1578,
+ "max_in_degree_median": 2.0,
+ "microservices_with_containers": 1303,
+ "seconds": 89,
+ "stateful_replicas": 1,
+ "stateful_not_in_resource_table": 1459,
+ "log": [
+  "MSResource counts from cache: 1303 microservices",
+  "MSCallGraph_0.tar.gz: columns ['traceid', 'timestamp', 'rpcid', 'um', 'rpctype', 'dm', 'interface'], 6088846 rows",
+  "after file 0: 1133 services, 42888 edges (21s)",
+  "MSCallGraph_1.tar.gz: columns ['traceid', 'timestamp', 'rpcid', 'um', 'rpctype', 'dm', 'interface'], 6397788 rows",
+  "after file 1: 1574 services, 66917 edges (45s)",
+  "MSCallGraph_2.tar.gz: columns ['traceid', 'timestamp', 'rpcid', 'um', 'rpctype', 'dm', 'interface'], 6558327 rows",
+  "after file 2: 1913 services, 83313 edges (68s)",
+  "MSCallGraph_3.tar.gz: columns ['traceid', 'timestamp', 'rpcid', 'um', 'rpctype', 'dm', 'interface'], 6262971 rows",
+  "after file 3: 2184 services, 98208 edges (88s)"
+ ]
+}

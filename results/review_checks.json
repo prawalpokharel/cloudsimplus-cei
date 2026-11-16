@@ -1,0 +1,251 @@
+{
+ "determinism": {
+  "confirm_v5": {
+   "FirstFit": {
+    "cells": 360,
+    "identical_cells": 360,
+    "columns": 44
+   },
+   "BestFit": {
+    "cells": 360,
+    "identical_cells": 360,
+    "columns": 44
+   },
+   "AntiAffinity": {
+    "cells": 360,
+    "identical_cells": 360,
+    "columns": 44
+   },
+   "Uniform@0.1": {
+    "cells": 360,
+    "identical_cells": 360,
+    "columns": 44
+   },
+   "CEI@0.1": {
+    "cells": 360,
+    "identical_cells": 360,
+    "columns": 44
+   },
+   "CEI@0.35": {
+    "cells": 360,
+    "identical_cells": 360,
+    "columns": 44
+   }
+  },
+  "confirm_r1_v5": {
+   "BestFit": {
+    "cells": 60,
+    "identical_cells": 60,
+    "columns": 46
+   },
+   "AntiAffinity": {
+    "cells": 60,
+    "identical_cells": 60,
+    "columns": 46
+   },
+   "CEI@0.1": {
+    "cells": 60,
+    "identical_cells": 60,
+    "columns": 46
+   }
+  },
+  "confirm_r2_v5": {
+   "BestFit": {
+    "cells": 60,
+    "identical_cells": 60,
+    "columns": 44
+   },
+   "AntiAffinity": {
+    "cells": 60,
+    "identical_cells": 60,
+    "columns": 44
+   },
+   "CEI@0.1": {
+    "cells": 60,
+    "identical_cells": 60,
+    "columns": 44
+   }
+  },
+  "tight_v5": {
+   "BestFit": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 34
+   },
+   "AntiAffinity": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 34
+   },
+   "Uniform@0.1": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 34
+   },
+   "CEI@0.1": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 34
+   },
+   "CEI@0.35": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 34
+   }
+  },
+  "racks_v5": {
+   "BestFit": {
+    "cells": 300,
+    "identical_cells": 300,
+    "columns": 57
+   },
+   "AntiAffinity": {
+    "cells": 300,
+    "identical_cells": 300,
+    "columns": 57
+   },
+   "AntiAffinityRack": {
+    "cells": 300,
+    "identical_cells": 300,
+    "columns": 57
+   },
+   "CEI@0.1": {
+    "cells": 300,
+    "identical_cells": 300,
+    "columns": 57
+   },
+   "CEIrack@0.1": {
+    "cells": 300,
+    "identical_cells": 300,
+    "columns": 57
+   }
+  },
+  "replfrac_v5": {
+   "BestFit": {
+    "cells": 200,
+    "identical_cells": 200,
+    "columns": 57
+   },
+   "AntiAffinity": {
+    "cells": 200,
+    "identical_cells": 200,
+    "columns": 57
+   },
+   "AntiAffinityRack": {
+    "cells": 200,
+    "identical_cells": 200,
+    "columns": 57
+   },
+   "CEIrack@0.1": {
+    "cells": 200,
+    "identical_cells": 200,
+    "columns": 57
+   }
+  },
+  "alibaba_v5": {
+   "FirstFit": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 57
+   },
+   "BestFit": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 57
+   },
+   "AntiAffinity": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 57
+   },
+   "AntiAffinityRack": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 57
+   },
+   "CEI@0.1": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 57
+   },
+   "CEIrack@0.1": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 57
+   },
+   "Uniform@0.1": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 57
+   },
+   "CEI@0.35": {
+    "cells": 240,
+    "identical_cells": 240,
+    "columns": 57
+   }
+  }
+ },
+ "uniformrack_changed": {
+  "racks_v5": {
+   "cells": 300,
+   "identical_cells": 147,
+   "columns": 57
+  },
+  "replfrac_v5": {
+   "cells": 200,
+   "identical_cells": 105,
+   "columns": 57
+  },
+  "alibaba_v5": {
+   "cells": 240,
+   "identical_cells": 143,
+   "columns": 57
+  }
+ },
+ "cei_vs_count": {
+  "confirm_v5:CEI@0.1": {
+   "cells": 360,
+   "identical": 360
+  },
+  "confirm_r1_v5:CEI@0.1": {
+   "cells": 60,
+   "identical": 60
+  },
+  "confirm_r2_v5:CEI@0.1": {
+   "cells": 60,
+   "identical": 60
+  },
+  "tight_v5:CEI@0.1": {
+   "cells": 240,
+   "identical": 240
+  },
+  "racks_v5:CEIrack@0.1": {
+   "cells": 300,
+   "identical": 147
+  },
+  "replfrac_v5:CEIrack@0.1": {
+   "cells": 200,
+   "identical": 105
+  },
+  "alibaba_v5:CEI@0.1": {
+   "cells": 120,
+   "identical": 106
+  },
+  "alibaba_v5:CEIrack@0.1": {
+   "cells": 120,
+   "identical": 37
+  },
+  "alibaba_s1_v5:CEI@0.1": {
+   "cells": 120,
+   "identical": 80
+  },
+  "alibaba_s1_v5:CEIrack@0.1": {
+   "cells": 120,
+   "identical": 39
+  }
+ },
+ "cei_vs_count_total": {
+  "cells": 1700,
+  "identical": 1234
+ }
+}

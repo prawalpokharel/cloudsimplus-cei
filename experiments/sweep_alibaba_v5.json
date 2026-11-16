@@ -1,0 +1,2164 @@
+{
+ "cells": [
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 21,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 22,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 23,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 24,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 25,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 26,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 27,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 28,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 29,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 30,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 31,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 32,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 33,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 34,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 35,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 36,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 37,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 38,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 39,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 40,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 21,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 22,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 23,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 24,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 25,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 26,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 27,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 28,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 29,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 30,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 31,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 32,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 33,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 34,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 35,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 36,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 37,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 38,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 39,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "natural",
+   "seed": 40,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 21,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 22,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 23,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 24,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 25,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 26,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 27,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 28,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 29,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 30,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 31,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 32,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 33,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 34,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 35,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 36,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 37,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 38,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 39,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 40,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 21,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 22,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 23,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 24,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 25,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 26,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 27,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 28,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 29,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 30,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 31,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 32,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 33,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 34,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 35,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 36,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 37,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 38,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 39,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.5,
+   "order": "shuffled",
+   "seed": 40,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 21,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 22,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 23,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 24,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 25,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 26,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 27,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 28,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 29,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 30,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 31,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 32,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 33,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 34,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 35,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 36,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 37,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 38,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 39,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 40,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 21,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 22,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 23,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 24,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 25,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 26,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 27,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 28,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 29,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 30,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 31,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 32,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 33,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 34,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 35,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 36,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 37,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 38,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 39,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "natural",
+   "seed": 40,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 21,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 22,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 23,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 24,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 25,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 26,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 27,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 28,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 29,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 30,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 31,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 32,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 33,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 34,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 35,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 36,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 37,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 38,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 39,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 40,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 21,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 22,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 23,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 24,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 25,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 26,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 27,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 28,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 29,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 30,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 31,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 32,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 33,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 34,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 35,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 36,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 37,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 38,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 39,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.75,
+   "order": "shuffled",
+   "seed": 40,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 21,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 22,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 23,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 24,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 25,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 26,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 27,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 28,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 29,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 30,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 31,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 32,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 33,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 34,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 35,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 36,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 37,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 38,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 39,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 40,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 21,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 22,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 23,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 24,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 25,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 26,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 27,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 28,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 29,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 30,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 31,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 32,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 33,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 34,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 35,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 36,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 37,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 38,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 39,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "natural",
+   "seed": 40,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 21,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 22,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 23,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 24,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 25,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 26,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 27,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 28,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 29,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 30,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 31,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 32,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 33,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 34,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 35,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 36,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 37,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 38,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 39,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 40,
+   "rackSize": 1,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 21,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 22,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 23,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 24,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 25,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 26,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 27,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 28,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 29,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 30,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 31,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 32,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 33,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 34,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 35,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 36,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 37,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 38,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 39,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  },
+  {
+   "shape": "alibaba",
+   "appsFile": "/jars/data/alibaba_apps.txt",
+   "load": 0.9,
+   "order": "shuffled",
+   "seed": 40,
+   "rackSize": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,AntiAffinityRack,Uniform@0.1,CEI@0.1,Uniformrack@0.1,CEIrack@0.1,CEI@0.35"
+  }
+ ]
+}

@@ -1,0 +1,964 @@
+{
+ "cells": [
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 1,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 2,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 3,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 4,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 5,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 6,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 7,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 8,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 9,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "2",
+   "seed": 10,
+   "policies": "FirstFit,BestFit,WorstFit,RoundRobin,Random,AntiAffinity,Uniform@0.35,CEI@0.35"
+  }
+ ]
+}

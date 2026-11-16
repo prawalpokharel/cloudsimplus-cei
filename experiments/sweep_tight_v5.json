@@ -1,0 +1,2404 @@
+{
+ "cells": [
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 6,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 8,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.85,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 1,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 2,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 3,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 4,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 5,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 6,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 7,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 8,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 9,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "2",
+   "seed": 10,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 1,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 2,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 3,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 4,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 5,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 6,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 7,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 8,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 9,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "dsb",
+   "load": 0.95,
+   "order": "natural",
+   "replicas": "mixed",
+   "seed": 10,
+   "hosts": 12,
+   "failures": 4,
+   "policies": "BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  }
+ ]
+}

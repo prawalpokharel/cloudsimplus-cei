@@ -1,0 +1,484 @@
+{
+ "cells": [
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 11,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 13,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 14,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 15,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 16,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 17,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 18,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 19,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 20,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 11,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 13,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 14,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 15,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 16,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 17,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 18,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 19,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.5,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 20,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 11,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 13,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 14,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 15,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 16,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 17,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 18,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 19,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 20,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 11,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 13,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 14,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 15,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 16,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 17,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 18,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 19,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.75,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 20,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 11,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 13,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 14,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 15,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 16,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 17,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 18,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 19,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "natural",
+   "replicas": "1",
+   "seed": 20,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 11,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 12,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 13,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 14,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 15,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 16,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 17,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 18,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 19,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  },
+  {
+   "shape": "mixed",
+   "load": 0.9,
+   "order": "shuffled",
+   "replicas": "1",
+   "seed": 20,
+   "policies": "FirstFit,BestFit,WorstFit,AntiAffinity,Uniform@0.1,CEI@0.1,CEI@0.35"
+  }
+ ]
+}
