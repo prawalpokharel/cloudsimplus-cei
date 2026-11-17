@@ -66,7 +66,7 @@ Measured on Modal with CloudSim Plus 9.0.0-SNAPSHOT (commit 4a160b4 plus the `ce
 - The default spreads VMs over every host. It breaks 11% fewer services per single host failure than the dependency-criticality policy, but uses 24% more simulated power, leaves VMs unplaced at 90% load and keeps fewer applications working over a failure sequence.
 - At BestFit's power, the policy breaks 17.8% fewer services per host failure than BestFit (95% CI 17.5-18.1%). With no replicas the gain is 0.8%. Plain anti-affinity gets almost all of it: the policy is only 1.3% better (CI 1.1-1.5%).
 
-**Rack failures** (300 cells, seeds 21-30, 2 to 12 racks):
+**Rack failures** (150 cells where only critical and shared services are replicated, seeds 21-30, 2 to 12 racks):
 
 | Policy | Services broken per rack failure | Declared-critical services broken |
 |---|---|---|
@@ -77,12 +77,12 @@ Measured on Modal with CloudSim Plus 9.0.0-SNAPSHOT (commit 4a160b4 plus the `ce
 | Dependency-criticality + `setFaultDomain`, CEI weights | **49.1** | **11.0** |
 
 - Host-level policies, including host anti-affinity, are no better than BestFit when a rack fails, and the default is the worst.
-- With every service replicated, rack anti-affinity is enough. With some services unreplicated, the dependency-aware policy breaks 18.8% fewer services than rack anti-affinity (CI 16.7-20.9%). The gain is 6.5%, 8.0% and 12.9% at 25%, 50% and 75% of services replicated.
-- The CEI weights (`useCriticalityIndex()`) made no measurable difference for host failures (identical in 906 of 960 cells, within 0.2% in the rest). Under rack failures they broke 3.9% fewer services and 7.6% fewer critical services than counting.
+- With every service replicated, rack anti-affinity is enough. With some services unreplicated, the dependency-aware policy breaks 15.5% fewer services than rack anti-affinity with count weights (CI 12.9-18.0%) and 18.8% fewer with CEI weights (CI 16.7-20.9%). With count weights the gain is 5.8%, 7.5% and 11.6% at 25%, 50% and 75% of services replicated.
+- The CEI weights (`useCriticalityIndex()`) made no measurable difference for host failures (identical in 1,104 of 1,200 cells, with means within 0.2%). Under rack failures they broke 3.9% fewer services and 7.6% fewer critical services than counting.
 
 **Call graphs from the Alibaba 2021 microservice trace** (Luo et al., SoCC 2021; 119 online services, 240 cells per variant): the trace has no replica counts for its stateful DB and memcached callees, which are 62% of the services.
-- With those callees at 2 replicas: 56% fewer services broken per host failure than BestFit, level with plain anti-affinity, and 7.9% fewer than rack anti-affinity per rack failure.
-- With them at 1 replica: only 2.6% fewer than BestFit, and 3.0% fewer than rack anti-affinity per rack failure.
+- With those callees at 2 replicas: 56% fewer services broken per host failure than BestFit, level with plain anti-affinity, and 7.5% fewer than rack anti-affinity per rack failure, but 15% more critical services (5% more with CEI weights).
+- With them at 1 replica: only 2.8% fewer than BestFit, and 3.0% fewer than rack anti-affinity per rack failure, with 4.0% more critical services.
 
 **Scale**: timed around `findHostForVm`, placing about 12,000 VMs on 2,000 hosts took 9.8 s, against 6.3 s for BestFit (medians of 5 seeds).
 
