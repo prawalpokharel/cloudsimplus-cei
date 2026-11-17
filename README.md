@@ -78,7 +78,7 @@ Measured on Modal with CloudSim Plus 9.0.0-SNAPSHOT (commit 4a160b4 plus the `ce
 
 - Host-level policies, including host anti-affinity, are no better than BestFit when a rack fails, and the default is the worst.
 - With every service replicated, rack anti-affinity is enough. With some services unreplicated, the dependency-aware policy breaks 18.8% fewer services than rack anti-affinity (CI 16.7-20.9%). The gain is 6.5%, 8.0% and 12.9% at 25%, 50% and 75% of services replicated.
-- The CEI weights (`useCriticalityIndex()`) made no difference for host failures. Under rack failures they broke 3.9% fewer services and 7.6% fewer critical services than counting.
+- The CEI weights (`useCriticalityIndex()`) made no measurable difference for host failures (identical in 906 of 960 cells, within 0.2% in the rest). Under rack failures they broke 3.9% fewer services and 7.6% fewer critical services than counting.
 
 **Call graphs from the Alibaba 2021 microservice trace** (Luo et al., SoCC 2021; 119 online services, 240 cells per variant): the trace has no replica counts for its stateful DB and memcached callees, which are 62% of the services.
 - With those callees at 2 replicas: 56% fewer services broken per host failure than BestFit, level with plain anti-affinity, and 7.9% fewer than rack anti-affinity per rack failure.
